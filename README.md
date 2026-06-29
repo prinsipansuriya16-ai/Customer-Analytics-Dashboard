@@ -10,7 +10,7 @@ This project analyzes customer purchase data to understand business performance.
 
 # 🚀 Live Demo
 
-👉 **Streamlit App:** *(Add your Streamlit URL here after deployment)*
+👉 **Streamlit App:** *https://customer-analytics-dashboard-mnaww4s7u85wfxa2thwp7p.streamlit.app/*
 
 ---
 
