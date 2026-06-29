@@ -1,6 +1,6 @@
 # 📊 Customer Analytics Dashboard | Python • Pandas • Plotly • Streamlit
 
-A Python-based Customer Analytics Dashboard built using a self-generated dataset of **1,000,000 customer records**. > 
+A Python-based Customer Analytics Dashboard built using a self-generated dataset of **1,000,000 customer records**. 
 --
 # 📖 Project Overview
 
